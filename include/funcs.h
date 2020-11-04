@@ -2,6 +2,6 @@
 #define __FUNCS_H__
 
 void foo();
-void goo();
+void my_static_function();
 
 #endif
