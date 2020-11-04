@@ -2,6 +2,6 @@
 #define __FUNCS_H__
 
 void foo();
-void goo();
+void giyomi();
 
 #endif

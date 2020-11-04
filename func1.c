@@ -5,3 +5,8 @@ void foo()
 {
 	printf("hello foo\n");
 }
+
+void giyomi()
+{
+	printf("yujin\n");
+}
