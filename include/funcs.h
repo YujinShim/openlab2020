@@ -3,5 +3,6 @@
 
 void foo();
 void my_static_function();
+void giyomi();
 
 #endif

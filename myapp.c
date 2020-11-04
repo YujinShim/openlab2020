@@ -4,5 +4,6 @@
 int main()
 {
 	foo();
+	giyomi();
 	return 0;
 }

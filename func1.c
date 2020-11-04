@@ -3,7 +3,12 @@
 
 void foo()
 {
-	printf("hello foo\n");
+	printf("hello I'm foo\n");
+}
+
+void giyomi()
+{
+	printf("yujin\n");
 }
 
 void my_static_function()
