@@ -3,7 +3,7 @@
 
 void foo()
 {
-	printf("hello foo\n");
+	printf("hello I'm foo\n");
 }
 
 void giyomi()
